@@ -18,6 +18,7 @@
 		// Best practices
 		"strict": true,
 		"skipLibCheck": true,
+		"types": ["bun-types"],
 		"noFallthroughCasesInSwitch": true,
 
 		// Stricter flags (handled by Biome: noUnusedLocals, noUnusedParameters)
