@@ -3,5 +3,6 @@
 	"extends": ["config:best-practices", "customManagers:biomeVersions"],
 	"automerge": true,
 	"automergeType": "pr",
-	"platformAutomerge": true
+	"platformAutomerge": true,
+	"minimumReleaseAge": "3 days"
 }
